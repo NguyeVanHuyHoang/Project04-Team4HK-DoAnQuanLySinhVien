@@ -28,20 +28,38 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.gunaCheckBox1 = new Guna.UI.WinForms.GunaCheckBox();
             this.SuspendLayout();
+            // 
+            // gunaCheckBox1
+            // 
+            this.gunaCheckBox1.BaseColor = System.Drawing.Color.White;
+            this.gunaCheckBox1.CheckedOffColor = System.Drawing.Color.Gray;
+            this.gunaCheckBox1.CheckedOnColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.gunaCheckBox1.FillColor = System.Drawing.Color.White;
+            this.gunaCheckBox1.Location = new System.Drawing.Point(180, 144);
+            this.gunaCheckBox1.Name = "gunaCheckBox1";
+            this.gunaCheckBox1.Size = new System.Drawing.Size(113, 20);
+            this.gunaCheckBox1.TabIndex = 0;
+            this.gunaCheckBox1.Text = "gunaCheckBox1";
             // 
             // Frm_PhanLopChuyenLop
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
+            this.Controls.Add(this.gunaCheckBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Frm_PhanLopChuyenLop";
             this.Text = "Frm_PhanLopChuyenLop";
             this.Load += new System.EventHandler(this.Frm_PhanLopChuyenLop_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private Guna.UI.WinForms.GunaCheckBox gunaCheckBox1;
     }
 }
