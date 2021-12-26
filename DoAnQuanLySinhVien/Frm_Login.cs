@@ -29,8 +29,8 @@ namespace DoAnQuanLySinhVien
 
         private void vbButton2_Click(object sender, EventArgs e)
         {
-            DialogResult dialog = MessageBox.Show("Are you sure you want to really exit ? ",
-                            "Exit",
+            DialogResult dialog = MessageBox.Show("Bạn có chắc chắn muốn thoát ? ",
+                            "Thoát",
                              MessageBoxButtons.YesNo,
                              MessageBoxIcon.Question);
             if (dialog == DialogResult.Yes)
