@@ -48,7 +48,7 @@
             // label1
             // 
             this.label1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("SF Pro Display", 17.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
@@ -63,7 +63,7 @@
             this.groupBox1.Controls.Add(this.grbUser);
             this.groupBox1.Controls.Add(this.grb_Admin);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Font = new System.Drawing.Font("SF Pro Display", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.Color.White;
             this.groupBox1.Location = new System.Drawing.Point(0, 59);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
@@ -84,7 +84,7 @@
             this.grbUser.Controls.Add(this.txtPasswordNewOne);
             this.grbUser.Dock = System.Windows.Forms.DockStyle.Top;
             this.grbUser.ForeColor = System.Drawing.Color.White;
-            this.grbUser.Location = new System.Drawing.Point(4, 223);
+            this.grbUser.Location = new System.Drawing.Point(4, 219);
             this.grbUser.Margin = new System.Windows.Forms.Padding(4);
             this.grbUser.Name = "grbUser";
             this.grbUser.Padding = new System.Windows.Forms.Padding(4);
@@ -108,22 +108,22 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("SF Pro Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(133, 134);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(178, 24);
+            this.label3.Size = new System.Drawing.Size(135, 18);
             this.label3.TabIndex = 3;
             this.label3.Text = "Xác nhận mật khẩu:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("SF Pro Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(162, 75);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(127, 24);
+            this.label2.Size = new System.Drawing.Size(97, 18);
             this.label2.TabIndex = 2;
             this.label2.Text = "Mật khẩu mới:";
             // 
@@ -132,7 +132,7 @@
             this.txtPasswordTwo.Location = new System.Drawing.Point(334, 124);
             this.txtPasswordTwo.Margin = new System.Windows.Forms.Padding(4);
             this.txtPasswordTwo.Name = "txtPasswordTwo";
-            this.txtPasswordTwo.Size = new System.Drawing.Size(440, 34);
+            this.txtPasswordTwo.Size = new System.Drawing.Size(440, 30);
             this.txtPasswordTwo.TabIndex = 1;
             // 
             // txtPasswordNewOne
@@ -140,7 +140,7 @@
             this.txtPasswordNewOne.Location = new System.Drawing.Point(334, 65);
             this.txtPasswordNewOne.Margin = new System.Windows.Forms.Padding(4);
             this.txtPasswordNewOne.Name = "txtPasswordNewOne";
-            this.txtPasswordNewOne.Size = new System.Drawing.Size(440, 34);
+            this.txtPasswordNewOne.Size = new System.Drawing.Size(440, 30);
             this.txtPasswordNewOne.TabIndex = 0;
             // 
             // grb_Admin
@@ -150,7 +150,7 @@
             this.grb_Admin.Controls.Add(this.cboUser);
             this.grb_Admin.Dock = System.Windows.Forms.DockStyle.Top;
             this.grb_Admin.ForeColor = System.Drawing.Color.White;
-            this.grb_Admin.Location = new System.Drawing.Point(4, 31);
+            this.grb_Admin.Location = new System.Drawing.Point(4, 27);
             this.grb_Admin.Margin = new System.Windows.Forms.Padding(4);
             this.grb_Admin.Name = "grb_Admin";
             this.grb_Admin.Padding = new System.Windows.Forms.Padding(4);
@@ -163,11 +163,11 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("SF Pro Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(167, 56);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(141, 24);
+            this.label4.Size = new System.Drawing.Size(107, 18);
             this.label4.TabIndex = 2;
             this.label4.Text = "Chọn tài khoản:";
             // 
@@ -188,12 +188,12 @@
             this.cboUser.Location = new System.Drawing.Point(321, 48);
             this.cboUser.Margin = new System.Windows.Forms.Padding(9);
             this.cboUser.Name = "cboUser";
-            this.cboUser.Size = new System.Drawing.Size(453, 37);
+            this.cboUser.Size = new System.Drawing.Size(453, 31);
             this.cboUser.TabIndex = 0;
             // 
             // Frm_DoiMatKhau
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(102)))), ((int)(((byte)(102)))));
             this.ClientSize = new System.Drawing.Size(1368, 768);

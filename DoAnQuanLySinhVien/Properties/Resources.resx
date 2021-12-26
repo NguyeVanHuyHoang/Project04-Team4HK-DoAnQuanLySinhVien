@@ -133,9 +133,6 @@
   <data name="edit_user_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\edit_user_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="subtract_48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\subtract_48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="password_1_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\password_1_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -144,6 +141,9 @@
   </data>
   <data name="collapse_48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\collapse_48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\search_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="home_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\home_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -154,14 +154,20 @@
   <data name="menu_50px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\menu_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="search_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\search_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="subtract_48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\subtract_48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Close_48px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\Close_48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="menu_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\menu_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Close_48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\Close_48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New_Project_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\New_Project_2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="query_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\query_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -169,10 +175,7 @@
   <data name="Close_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\Close_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="menu_50px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\menu_50px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="New_Project_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\New_Project_2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="macos_minimize_60px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\macos_minimize_60px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -19,11 +19,28 @@ namespace DoAnQuanLySinhVien
 
         private void gunaCircleButton1_Click(object sender, EventArgs e)
         {
-                    }
+            
+        }
 
         private void label3_Click(object sender, EventArgs e)
         {
+               
+        }
 
+        private void vbButton2_Click(object sender, EventArgs e)
+        {
+            DialogResult dialog = MessageBox.Show("Are you sure you want to really exit ? ",
+                            "Exit",
+                             MessageBoxButtons.YesNo,
+                             MessageBoxIcon.Question);
+            if (dialog == DialogResult.Yes)
+            {
+                System.Windows.Forms.Application.Exit();
+            }
+            else if (dialog == DialogResult.No)
+            {
+                this.Show();
+            }
         }
     }
 }

@@ -206,6 +206,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="DevComponents.DotNetBar2.dll" />
+    <None Include="image\macos_minimize_60px.png" />
     <None Include="image\New_Project_2.gif" />
     <None Include="image\New_Project_1.gif" />
     <None Include="image\subtract_48px.png" />
